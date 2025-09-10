@@ -1,4 +1,5 @@
 ﻿# my-first-portfolio
 
 
-<img width="1897" height="894" alt="Screenshot 2025-09-09 135939" src="https://github.com/user-attachments/assets/6bd54f7f-e72b-40c7-95d0-627a09f698fd" />
+
+<img width="1562" height="845" alt="Screenshot 2025-09-10 144636" src="https://github.com/user-attachments/assets/0983da35-b5b7-4a8f-b12f-a314a581bfce" />
